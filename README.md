@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 ## Background
 
 The client, Louise, wanted to analyze the collected data regarding the kickstarter campaigns related to financial goals.
